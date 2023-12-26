@@ -6,7 +6,7 @@
 //let paragrafo = document.querySelector ('p');
 //paragrafo.innerHTML = 'escolha um número de 1 a 10';
 let listaDeNumerosSorteados = [];
-let numeroLimite = 100;
+let numeroLimite = 10;
 let numeroSecreto = numeroAleatorio ();
 let tentativas = 1;
 function exibirTextoNaTela (tag, texto) {
